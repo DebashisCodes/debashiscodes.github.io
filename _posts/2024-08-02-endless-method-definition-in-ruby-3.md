@@ -1,10 +1,10 @@
 ---
-date: 2024-08-13 12:00:00
+date: 2024-08-02 12:00:00
 layout: post
 title: Define An Endless Method In Ruby 3
 subtitle:
 description:
-image: "/assets/img/code.png"
+# image: "/assets/img/code.png"
 optimized_image:
 category: Ruby
 tags:

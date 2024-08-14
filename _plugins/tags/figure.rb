@@ -24,7 +24,7 @@ module Jekyll
             if( jdata.key?("image") )
               image = jdata["image"].strip
               output += "<img src=\"" + image + "\""
-            
+
               if( jdata.key?("alt") )
                 alt = jdata["alt"].strip
                 output += " alt=\"" + alt + "\""
