@@ -1,7 +1,7 @@
 ---
 date: 2024-08-02 12:00:00
 layout: post
-title: Define An Endless Method In Ruby 3
+title: Define An Endless Method In Ruby
 subtitle:
 description:
 image: "/assets/img/code.png"
